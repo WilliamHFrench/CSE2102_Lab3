@@ -4,12 +4,12 @@
 mvn archetype:generate -DgroupId=com.example.pizza -DartifactId=pizza-factory -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 ## 2. ensure that junit is in the pom.xl folder
- <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13.2</version>
-      <scope>test</scope>
-    </dependency>
+// <dependency>
+     // <groupId>junit</groupId>
+  //    <artifactId>junit</artifactId>
+    //  <version>4.13.2</version>
+    //  <scope>test</scope>
+   // </dependency>
 
 ## 3. Place the PizzaStoreTest file with AppTest.java in the test direectory and place all other files with App.java within the main directory. Both are located within src.
 
