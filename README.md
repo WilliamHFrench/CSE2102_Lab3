@@ -13,6 +13,6 @@ mvn archetype:generate -DgroupId=com.example.pizza -DartifactId=pizza-factory -D
 
     Press edit Readme to see the correct structure
 
-## 3. Place the PizzaStoreTest file with AppTest.java in the test direectory and place all other files with App.java within the main directory. Both are located within src.
+## 3. Place the PizzaStoreTest file with AppTest.java in the test directory and place all other files with App.java within the main directory. Both are located within src.
 
 ## 4. Run the program with mvn clean and mvn test.
